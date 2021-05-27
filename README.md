@@ -4,7 +4,7 @@
 Vue.js, Vuelidate, Sass
 ```
 |------------------|
-|[Screen_1]!(screenshots/screen_1.png)|
+|![Screen_1](screenshots/screen_1.png)|
 
 ## Project setup
 ```
