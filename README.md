@@ -5,8 +5,8 @@ Vue.js, Vuelidate, Sass
 ```
 |     |     |
 | --- | --- |
-| ![Screen_1](screenshots/screen_1.png) | ![Screen_2](screenshots/screen_2.png) ![Screen_3](screenshots/screen_1.png)  |
-<img src="screenshots/screen_1.png" width="300">
+| <img src="screenshots/screen_1.png" width="300"> | <img src="screenshots/screen_2.png" width="300"> <img src="screenshots/screen_3.png" width="300">  |
+
 
 ## Project setup
 ```
