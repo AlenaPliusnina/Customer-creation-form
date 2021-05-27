@@ -1,7 +1,6 @@
 const path = require('path');
 
 module.exports = {
-    publicPath: '/Customer-creation-form/',
     configureWebpack: {
 		resolve: {
 			alias: {
@@ -15,5 +14,8 @@ module.exports = {
                 additionalData: '@import "./src/assets/styles"'
             }
         }
-    }
+    },
+    publicPath: process.env.NODE_ENV === 'production'
+		? '/Customer-creation-form/'
+		: '/'
 }
