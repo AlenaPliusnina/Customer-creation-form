@@ -5,12 +5,7 @@ Vue.js, Vuelidate, Sass
 ```
 |     |     |
 | --- | --- |
-| ![Screen_1](screenshots/screen_1.png) | ![Screen_2](screenshots/screen_2.png) |
-|                                       | ![Screen_3](screenshots/screen_1.png) |
-<!-- | git diff | Show file differences that haven't been staged | -->
-
-<!-- |  |   | -->
-<!-- |                                       |  | -->
+| ![Screen_1](screenshots/screen_1.png) | ![Screen_2](screenshots/screen_2.png) ![Screen_3](screenshots/screen_1.png)  |
 
 ## Project setup
 ```
