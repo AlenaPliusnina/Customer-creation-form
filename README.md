@@ -1,4 +1,8 @@
-# customer-creation-form
+# Customer creation form (Vue.js)
+
+```
+Vue.js, Vuelidate, Sass
+```
 
 ## Project setup
 ```
